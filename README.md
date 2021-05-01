@@ -17,8 +17,6 @@ Link expired pada 19 Mei 2021. Use it at your own risk.
 https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40hardyvalen/supir-angkot-cuy-2cabaa65c4db4410bc8e7e58c9b2e690-signed.apk
 
 ### Related Project:
-https://github.com/HardyValen/reksismul-app-penumpang
-
-https://github.com/HardyValen/reksismul-app-supir
-
-https://github.com/HardyValen/reksismul-server
+* https://github.com/HardyValen/reksismul-app-penumpang
+* https://github.com/HardyValen/reksismul-app-supir
+* https://github.com/HardyValen/reksismul-server
